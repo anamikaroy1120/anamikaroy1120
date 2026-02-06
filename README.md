@@ -7,7 +7,7 @@
 
 ---
 
-### 🌌 Connect With Me
+### 🌍 Connect With Me
 <p align="center">
 <a href="https://instagram.com/___ana_211"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 <a href="mailto:anamikaroy1120@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -16,14 +16,14 @@
 
 ---
 
-### 🛠️ Tech Stack
+### ⚙️ Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,react,redux,tailwind,threejs,vite,laravel,mysql,github&theme=dark" />
 </p>
 
 ---
 
-### 🐚 Coding Activity
+### 🤖 Coding Activity
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=anamikaroy1120&bg_color=0D1117&color=FF69B4&line=FF69B4&point=ffffff&area=true&hide_border=false&border=FF69B4&border_radius=10" width="100%" />
 </p>
