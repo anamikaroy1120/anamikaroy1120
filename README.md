@@ -1,8 +1,8 @@
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=anamikaroy1120&icon=0&color=0" alt="visitor count" />
-</p>
+# 🪄 Profile
 
-# 🪄 Hello, I'm Anamika!
+<p align="center">
+  <img src="https://capsule-render.vercel.app/render?type=glass&color=auto&height=250&section=header&text=Anamika%20Roy&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer&descSize=20&descAlignY=60&fontColor=ffffff" width="100%" />
+</p>
 
 ## 🌌 Connect with Me
 <p align="left">
