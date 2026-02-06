@@ -3,7 +3,7 @@
 # ANAMIKA ROY
 **Creative Technologist**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Creative+Technologist;Full+Stack+Solutions;UI+ux+Architecture" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=FF69B4&center=true&vCenter=true&width=750&lines=Creative+Technologist;Frontend+Engineering+Specialist;UI%2FUX+Architecture+at+Scale" alt="Typing SVG" />
 
 ---
 
