@@ -46,17 +46,28 @@ Crafting modern, high-performance applications with strong UI polish and clean a
 
 <br/>
 
-<!-- Stats -->
+<!-- Stats (fixed + stable) -->
 <table align="center" width="92%">
   <tr>
     <td style="padding:16px;border-radius:16px;background:rgba(255,255,255,0.06);border:1px solid rgba(255,255,255,0.12);">
       <h3>📊 GitHub Stats</h3>
+
       <p align="center">
-        <img height="170" src="https://github-readme-stats.vercel.app/api?username=anamikaroy1120&show_icons=true&title_color=FF4FD8&icon_color=00D7FF&text_color=E6E6E6&bg_color=0D1117&hide_border=true&border_radius=18" />
-        <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anamikaroy1120&layout=compact&title_color=7A5CFF&text_color=E6E6E6&bg_color=0D1117&hide_border=true&border_radius=18" />
+        <img
+          height="170"
+          src="https://github-readme-stats.vercel.app/api?username=anamikaroy1120&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&bg_color=0D1117&title_color=FF4FD8&text_color=E6E6E6&icon_color=00D7FF&ring_color=7A5CFF&cache_seconds=21600"
+        />
+        <img
+          height="170"
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=anamikaroy1120&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=7A5CFF&text_color=E6E6E6&cache_seconds=21600"
+        />
       </p>
+
       <p align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=anamikaroy1120&theme=tokyonight&hide_border=true&border_radius=18" width="100%" />
+        <img
+          width="100%"
+          src="https://streak-stats.demolab.com?user=anamikaroy1120&hide_border=true&background=0D1117&stroke=FFFFFF1F&ring=FF4FD8&fire=00D7FF&currStreakLabel=7A5CFF&sideLabels=E6E6E6&currStreakNum=E6E6E6&sideNums=E6E6E6&dates=8B949E"
+        />
       </p>
     </td>
   </tr>
@@ -64,13 +75,16 @@ Crafting modern, high-performance applications with strong UI polish and clean a
 
 <br/>
 
-<!-- Contributions -->
+<!-- Contributions (matching neon palette) -->
 <table align="center" width="92%">
   <tr>
     <td style="padding:16px;border-radius:16px;background:rgba(255,255,255,0.06);border:1px solid rgba(255,255,255,0.12);">
       <h3>📈 Contributions</h3>
       <p align="center">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anamikaroy1120&theme=tokyonight" width="100%" />
+        <img
+          width="100%"
+          src="https://github-readme-activity-graph.vercel.app/graph?username=anamikaroy1120&bg_color=0D1117&color=E6E6E6&line=FF4FD8&point=00D7FF&area=true&area_color=7A5CFF&hide_border=true"
+        />
       </p>
     </td>
   </tr>
