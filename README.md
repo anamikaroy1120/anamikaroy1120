@@ -3,14 +3,16 @@
 # 💗 ANAMIKA ROY
 **Full Stack Developer | UI/X Enthusiast | Mobile Architect**
 
-<img src="https://capsule-render.vercel.app/render?type=glass&color=000000&height=200&section=header&text=BLACKPINK%20IN%20YOUR%20AREA&fontSize=45&animation=fadeIn&fontColor=FF69B4&desc=Anamika's%20Dev%20Showcase&descSize=20&descAlignY=70" width="100%" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=BLACKPINK+IN+YOUR+AREA;Full+Stack+Developer;Creative+Technologist" alt="Typing SVG" />
 
 ---
 
-### 🌐 Connect With Me
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/___ana_211) 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anamikaroy1120@gmail.com) 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anamikaroy1120)
+### 🌌 Connect With Me
+<p align="center">
+<a href="https://instagram.com/___ana_211"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="mailto:anamikaroy1120@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/anamikaroy1120"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
 
 ---
 
@@ -23,19 +25,19 @@
 
 ### 💗 Performance & Stats
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=anamikaroy1120&show_icons=true&title_color=FF69B4&icon_color=FF69B4&text_color=ffffff&bg_color=000000&hide_border=false&border_color=FF69B4&border_radius=10" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anamikaroy1120&layout=compact&title_color=FF69B4&text_color=ffffff&bg_color=000000&hide_border=false&border_color=FF69B4&border_radius=10" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=anamikaroy1120&show_icons=true&theme=tokyonight&title_color=FF69B4&icon_color=FF69B4&text_color=ffffff&bg_color=000000&hide_border=false" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anamikaroy1120&layout=compact&theme=tokyonight&title_color=FF69B4&text_color=ffffff&bg_color=000000&hide_border=false" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=anamikaroy1120&currStreakColor=FF69B4&sideLabels=ffffff&sideNums=ffffff&dates=ffffff&ring=FF69B4&fire=FF69B4&stroke=FF69B4&currStreakNum=ffffff&background=000000&hide_border=false" width="97%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=anamikaroy1120&theme=black-ice&fire=FF69B4&currStreakNum=FF69B4&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=false&border=FF69B4" width="97%" />
 </p>
 
 ---
 
-### 🐚 My Contributions
+### 🐚 Coding Activity
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anamikaroy1120&theme=217" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=anamikaroy1120&theme=tokyonight&layout=compact&title_color=FF69B4" width="100%" />
 </p>
 
 </div>
