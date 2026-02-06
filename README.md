@@ -1,6 +1,6 @@
 <div align="center">
 
-# 💎 ANAMIKA ROY
+# ANAMIKA ROY
 **Creative Technologist**
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Creative+Technologist;Full+Stack+Solutions;UI+ux+Architecture" alt="Typing SVG" />
@@ -19,17 +19,6 @@
 ### 🛠️ Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,react,redux,tailwind,threejs,vite,laravel,mysql,github&theme=dark" />
-</p>
-
----
-
-### 🌟 Language Proficiency
-<p align="center">
-  <img width="80%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anamikaroy1120&layout=compact&theme=tokyonight&title_color=FF69B4&text_color=ffffff&bg_color=0D1117&hide_border=false&border_color=FF69B4&border_radius=10" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anamikaroy1120&theme=tokyonight&fire=FF69B4&currStreakNum=FF69B4&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=false&border=FF69B4&background=0D1117" width="80%" />
 </p>
 
 ---
