@@ -1,31 +1,61 @@
 <div align="center">
 
-# ANAMIKA ROY
-**Creative Technologist**
+# Anamika Roy
 
-<!-- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=FF69B4&center=true&vCenter=true&width=750&lines=Creative+Technologist;Frontend+Engineering+Specialist;UI%2FUX+Architecture+at+Scale" alt="Typing SVG" /> -->
+### Creative Technologist · Frontend Developer
+
+Building thoughtful interfaces with clean code, purposeful motion, and attention to detail.
+
+<br />
+
+<a href="mailto:anamikaroy1120@gmail.com">
+  <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email Anamika" />
+</a>
+<a href="https://instagram.com/___ana_211">
+  <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Anamika on Instagram" />
+</a>
+<a href="https://github.com/anamikaroy1120">
+  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="Anamika on GitHub" />
+</a>
+
+</div>
+
+<br />
+
+## A little about me
+
+I’m interested in the space where design meets engineering—turning ideas into responsive, intuitive web experiences.
+
+- **Interfaces:** React, TypeScript, and reusable UI components.
+- **Interaction:** Motion and interactive experiences with Three.js.
+- **Full stack:** Connecting frontend experiences with Laravel and MySQL.
+
+## Tools I build with
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=ts,js,react,redux,tailwind,threejs,vite,laravel,mysql,git,github&theme=dark&perline=11" alt="TypeScript, JavaScript, React, Redux, Tailwind CSS, Three.js, Vite, Laravel, MySQL, Git, and GitHub" />
+
+</div>
+
+<br />
+
+## GitHub activity
+
+<a href="https://github.com/anamikaroy1120">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=anamikaroy1120&bg_color=0D1117&color=E6EDF3&line=F472B6&point=FFFFFF&area=true&hide_border=true&radius=12"
+    alt="Anamika Roy's GitHub contribution activity"
+    width="100%"
+  />
+</a>
 
 ---
 
-### 🌍 Connect With Me
-<p align="center">
-<a href="https://instagram.com/___ana_211"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="mailto:anamikaroy1120@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<!-- <a href="https://github.com/anamikaroy1120"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a> -->
-</p>
+<div align="center">
 
----
+**Have an interesting idea? Let’s build something thoughtful.**
 
-### ⚙️ Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,redux,tailwind,threejs,vite,laravel,mysql,github&theme=dark" />
-</p>
-
----
-
-### 🤖 Coding Activity
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anamikaroy1120&bg_color=0D1117&color=FF69B4&line=FF69B4&point=ffffff&area=true&hide_border=false&border=FF69B4&border_radius=10" width="100%" />
-</p>
+[Get in touch →](mailto:anamikaroy1120@gmail.com)
 
 </div>
