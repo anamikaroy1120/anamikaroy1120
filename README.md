@@ -1,70 +1,90 @@
 <div align="center">
 
 <br />
-<br />
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=300&size=32&color=C4B5FD&center=true&vCenter=true&width=600&height=60&lines=Hello,+I'm+Anamika.;Creative+Technologist.;Full-Stack+Engineer." alt="Hello, I'm Anamika" />
+<sub>D E S I G N &nbsp; / &nbsp; C O D E &nbsp; / &nbsp; M O T I O N</sub>
 
-<p align="center" style="color: #A1A1AA; font-weight: 300; line-height: 1.6;">
-  Blending thoughtful design with robust engineering. <br />
-  Focused on crafting clean, intentional digital experiences.
-</p>
+# Anamika Roy
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=18&duration=2800&pause=1800&color=A78BFA&center=true&vCenter=true&width=480&height=40&lines=Creative+technologist.;Interfaces+with+intention.;Details+that+make+a+difference." width="80%" alt="Creative technologist. Interfaces with intention. Details that make a difference." />
 
 <br />
 
-<a href="mailto:anamikaroy1120@gmail.com">
-  <img src="https://img.shields.io/badge/Email-09090B?style=flat-square&logo=gmail&logoColor=C4B5FD" alt="Email" />
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/anamikaroy1120">
-  <img src="https://img.shields.io/badge/GitHub-09090B?style=flat-square&logo=github&logoColor=C4B5FD" alt="GitHub" />
-</a>
-&nbsp;&nbsp;
-<a href="https://instagram.com/___ana_211">
-  <img src="https://img.shields.io/badge/Instagram-09090B?style=flat-square&logo=instagram&logoColor=C4B5FD" alt="Instagram" />
-</a>
+I bring design and engineering together  
+to make the web feel a little more thoughtful.
 
 <br />
-<br />
-<br />
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="150" height="1" alt="divider" style="opacity: 0.2;" />
+<a href="mailto:anamikaroy1120@gmail.com"><img src="https://img.shields.io/badge/Email_%E2%86%97-18181B?style=flat-square&logo=gmail&logoColor=C4B5FD" alt="Email" /></a>
+&nbsp;
+<a href="https://instagram.com/___ana_211"><img src="https://img.shields.io/badge/Instagram_%E2%86%97-18181B?style=flat-square&logo=instagram&logoColor=C4B5FD" alt="Instagram" /></a>
+&nbsp;
+<a href="https://github.com/anamikaroy1120?tab=repositories"><img src="https://img.shields.io/badge/My_work_%E2%86%97-18181B?style=flat-square&logo=github&logoColor=C4B5FD" alt="Explore my work" /></a>
 
 <br />
 <br />
 
-<h3 style="color: #E9D5FF; font-weight: 400; letter-spacing: 2px;">E X P E R T I S E</h3>
+</div>
+
+---
 
 <br />
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=ts,react,tailwind,threejs,laravel,mysql&theme=dark" alt="Core Skills" />
-</a>
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### The visual side
+
+Responsive layouts. Clear hierarchy.  
+Subtle motion that serves a purpose.
+
+**React · Tailwind CSS · Three.js**
+
+</td>
+<td width="50%" valign="top">
+
+### The engineering side
+
+Reusable components. Connected systems.  
+Care in how everything fits together.
+
+**TypeScript · Laravel · MySQL**
+
+</td>
+</tr>
+</table>
+
+<br />
+
+<div align="center">
+
+<sub>MY EVERYDAY TOOLKIT</sub>
 
 <br />
 <br />
-<br />
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="150" height="1" alt="divider" style="opacity: 0.2;" />
-
-<br />
-<br />
-
-<h3 style="color: #E9D5FF; font-weight: 400; letter-spacing: 2px;">M E T R I C S</h3>
-
-<br />
-
-<a href="https://github.com/anamikaroy1120">
-  <img src="https://github-readme-stats.vercel.app/api?username=anamikaroy1120&show_icons=true&theme=transparent&hide_border=true&title_color=C4B5FD&icon_color=C4B5FD&text_color=A1A1AA&bg_color=00000000" alt="GitHub Stats" />
-</a>
+<img src="https://skillicons.dev/icons?i=ts,js,react,redux,tailwind&theme=dark" width="240" alt="TypeScript, JavaScript, React, Redux, Tailwind CSS" />
 
 <br />
 <br />
+
+<img src="https://skillicons.dev/icons?i=threejs,vite,laravel,mysql,github&theme=dark" width="240" alt="Three.js, Vite, Laravel, MySQL, GitHub" />
+
+<br />
 <br />
 
-<p align="center" style="color: #52525B; font-size: 11px; letter-spacing: 3px;">
-  SILIGURI, INDIA &nbsp; · &nbsp; DESIGN × CODE
-</p>
+---
+
+<br />
+
+**Good ideas start with a conversation.**
+
+[Let’s talk ↗](mailto:anamikaroy1120@gmail.com)
+
+<br />
+
+<sub>ANAMIKA ROY &nbsp; · &nbsp; CREATIVE TECHNOLOGIST</sub>
 
 <br />
 
