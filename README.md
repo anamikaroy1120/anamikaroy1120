@@ -1,110 +1,62 @@
 <div align="center">
 
 <br />
-<br />
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=12&color=71717A&center=true&vCenter=true&width=400&height=30&lines=⟡++D+E+S+I+G+N++++%2F++++C+O+D+E++++%2F++++M+O+T+I+O+N++⟡" alt="Design / Code / Motion" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Sparkles.png" alt="Sparkles" width="45" />
 
-# Anamika Roy
-
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=18&duration=3000&pause=1800&color=A78BFA&center=true&vCenter=true&width=500&height=40&lines=Creative+technologist.;Interfaces+with+intention.;Details+that+make+a+difference." alt="Creative technologist. Interfaces with intention. Details that make a difference." />
-
-<br />
-
-<i>I bring design and engineering together <br />
-to make the web feel a little more thoughtful.</i>
-
-<br />
-<br />
-
-<a href="mailto:anamikaroy1120@gmail.com">
-  <img src="https://img.shields.io/badge/Email_%E2%86%97-18181B?style=for-the-badge&logo=gmail&logoColor=C4B5FD" alt="Email" />
-</a>
-&nbsp;&nbsp;
-<a href="https://instagram.com/___ana_211">
-  <img src="https://img.shields.io/badge/Instagram_%E2%86%97-18181B?style=for-the-badge&logo=instagram&logoColor=C4B5FD" alt="Instagram" />
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/anamikaroy1120?tab=repositories">
-  <img src="https://img.shields.io/badge/My_work_%E2%86%97-18181B?style=for-the-badge&logo=github&logoColor=C4B5FD" alt="Explore my work" />
+<!-- Animated Looping Headline -->
+<a href="https://github.com/anamikaroy1120">
+  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=36&duration=4000&pause=1000&color=C084FC&center=true&vCenter=true&width=600&height=70&lines=Hi,+I'm+Anamika+Roy;Creative+Technologist;I+build+interactive+experiences;Turning+ideas+into+interfaces" alt="Animated Headline" />
 </a>
 
-<br />
-<br />
-<br />
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="400" height="2" alt="divider" style="opacity: 0.2;" />
-
-<br />
-<br />
-
-<table align="center" width="100%" style="border-collapse: collapse; border: none;">
-  <tr style="border: none;">
-    <td width="50%" align="center" valign="top" style="border: none;">
-      <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=18&color=A78BFA&center=true&vCenter=true&width=300&height=40&lines=✦+The+visual+side" alt="The visual side" />
-      <br />
-      <p style="color: #9CA3AF; font-size: 14px;">
-        Responsive layouts. Clear hierarchy.<br />
-        Subtle motion that serves a purpose.
-      </p>
-      <p><b>React · Tailwind CSS · Three.js</b></p>
-    </td>
-    <td width="50%" align="center" valign="top" style="border: none;">
-      <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=18&color=A78BFA&center=true&vCenter=true&width=300&height=40&lines=✦+The+engineering+side" alt="The engineering side" />
-      <br />
-      <p style="color: #9CA3AF; font-size: 14px;">
-        Reusable components. Connected systems.<br />
-        Care in how everything fits together.
-      </p>
-      <p><b>TypeScript · Laravel · MySQL</b></p>
-    </td>
-  </tr>
-</table>
+<p align="center" style="color: #9CA3AF;">
+  I bring design and engineering together to make the web feel a little more thoughtful. <br>
+  Always focused on details that make a difference.
+</p>
 
 <br />
-<br />
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="400" height="2" alt="divider" style="opacity: 0.2;" />
-
-<br />
-<br />
-
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=12&color=71717A&center=true&vCenter=true&width=400&height=30&lines=M+Y++E+V+E+R+Y+D+A+Y++T+O+O+L+K+I+T" alt="My Everyday Toolkit" />
-
-<br />
-<br />
-
-<img src="https://skillicons.dev/icons?i=ts,js,react,redux,tailwind&theme=dark" alt="TypeScript, JavaScript, React, Redux, Tailwind CSS" />
-
-<br />
-<br />
-
-<img src="https://skillicons.dev/icons?i=threejs,vite,laravel,mysql,github&theme=dark" alt="Three.js, Vite, Laravel, MySQL, GitHub" />
+<!-- Sleek Social Badges -->
+<a href="mailto:anamikaroy1120@gmail.com"><img src="https://img.shields.io/badge/Email-18181B?style=for-the-badge&logo=gmail&logoColor=C4B5FD" alt="Email" /></a>
+<a href="https://instagram.com/___ana_211"><img src="https://img.shields.io/badge/Instagram-18181B?style=for-the-badge&logo=instagram&logoColor=C4B5FD" alt="Instagram" /></a>
+<a href="https://github.com/anamikaroy1120"><img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=C4B5FD" alt="GitHub" /></a>
 
 <br />
 <br />
 <br />
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="400" height="2" alt="divider" style="opacity: 0.2;" />
-
-<br />
-<br />
-
-**Good ideas start with a conversation.**
-
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="40" />
+<h3 align="center" style="color: #C084FC;">My Everyday Toolkit</h3>
 <br />
 
-<a href="mailto:anamikaroy1120@gmail.com">
-  <img src="https://img.shields.io/badge/Let's_talk_%E2%86%97-A78BFA?style=for-the-badge&labelColor=18181B&color=18181B" alt="Let's talk" />
+<!-- Clean Skill Grid -->
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,redux,tailwind,threejs,vite,laravel,mysql,github&theme=dark&perline=5" alt="Tech Stack" />
 </a>
 
 <br />
 <br />
 <br />
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=10&color=52525B&center=true&vCenter=true&width=500&height=30&lines=A+N+A+M+I+K+A++R+O+Y++++·++++C+R+E+A+T+I+V+E++T+E+C+H+N+O+L+O+G+I+S+T" alt="Anamika Roy - Creative Technologist" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="40" />
+<h3 align="center" style="color: #C084FC;">GitHub Analytics</h3>
+<br />
+
+<!-- Dynamic Animated Stats Cards -->
+<a href="https://github.com/anamikaroy1120">
+  <img src="https://github-readme-stats.vercel.app/api?username=anamikaroy1120&show_icons=true&theme=tokyonight&hide_border=true&bg_color=09090B&title_color=C084FC&icon_color=C084FC&text_color=9CA3AF" alt="Anamika's GitHub Stats" />
+</a>
+<br /><br />
+<a href="https://github.com/anamikaroy1120">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anamikaroy1120&layout=compact&theme=tokyonight&hide_border=true&bg_color=09090B&title_color=C084FC&text_color=9CA3AF" alt="Top Languages" />
+</a>
 
 <br />
+<br />
+<br />
+
+<img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=500&size=12&color=71717A&center=true&vCenter=true&width=400&height=30&lines=✦+Let's+build+something+amazing+✦" alt="Footer text" />
+
 <br />
 
 </div>
