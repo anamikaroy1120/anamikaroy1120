@@ -1,18 +1,18 @@
 <div align="center">
 
 <br />
+<br />
 
-<sub>D E S I G N &nbsp; / &nbsp; C O D E &nbsp; / &nbsp; M O T I O N</sub>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=12&color=71717A&center=true&vCenter=true&width=400&height=30&lines=⟡++D+E+S+I+G+N++++%2F++++C+O+D+E++++%2F++++M+O+T+I+O+N++⟡" alt="Design / Code / Motion" />
 
 # Anamika Roy
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=18&duration=2800&pause=1800&color=A78BFA&center=true&vCenter=true&width=480&height=40&lines=Creative+technologist.;Interfaces+with+intention.;Details+that+make+a+difference." alt="Creative technologist. Interfaces with intention. Details that make a difference." />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=18&duration=3000&pause=1800&color=A78BFA&center=true&vCenter=true&width=500&height=40&lines=Creative+technologist.;Interfaces+with+intention.;Details+that+make+a+difference." alt="Creative technologist. Interfaces with intention. Details that make a difference." />
 
 <br />
-<br />
 
-I bring design and engineering together <br />
-to make the web feel a little more thoughtful.
+<i>I bring design and engineering together <br />
+to make the web feel a little more thoughtful.</i>
 
 <br />
 <br />
@@ -33,7 +33,7 @@ to make the web feel a little more thoughtful.
 <br />
 <br />
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="400" height="2" alt="divider" style="opacity: 0.2;" />
 
 <br />
 <br />
@@ -41,16 +41,18 @@ to make the web feel a little more thoughtful.
 <table align="center" width="100%" style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
     <td width="50%" align="center" valign="top" style="border: none;">
-      <h3 style="color: #A78BFA;">The visual side</h3>
-      <p>
+      <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=18&color=A78BFA&center=true&vCenter=true&width=300&height=40&lines=✦+The+visual+side" alt="The visual side" />
+      <br />
+      <p style="color: #9CA3AF; font-size: 14px;">
         Responsive layouts. Clear hierarchy.<br />
         Subtle motion that serves a purpose.
       </p>
       <p><b>React · Tailwind CSS · Three.js</b></p>
     </td>
     <td width="50%" align="center" valign="top" style="border: none;">
-      <h3 style="color: #A78BFA;">The engineering side</h3>
-      <p>
+      <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=18&color=A78BFA&center=true&vCenter=true&width=300&height=40&lines=✦+The+engineering+side" alt="The engineering side" />
+      <br />
+      <p style="color: #9CA3AF; font-size: 14px;">
         Reusable components. Connected systems.<br />
         Care in how everything fits together.
       </p>
@@ -62,14 +64,13 @@ to make the web feel a little more thoughtful.
 <br />
 <br />
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="400" height="2" alt="divider" style="opacity: 0.2;" />
 
 <br />
 <br />
 
-<sub>M Y &nbsp; E V E R Y D A Y &nbsp; T O O L K I T</sub>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=12&color=71717A&center=true&vCenter=true&width=400&height=30&lines=M+Y++E+V+E+R+Y+D+A+Y++T+O+O+L+K+I+T" alt="My Everyday Toolkit" />
 
-<br />
 <br />
 <br />
 
@@ -84,7 +85,7 @@ to make the web feel a little more thoughtful.
 <br />
 <br />
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="400" height="2" alt="divider" style="opacity: 0.2;" />
 
 <br />
 <br />
@@ -101,7 +102,7 @@ to make the web feel a little more thoughtful.
 <br />
 <br />
 
-<sub>A N A M I K A &nbsp; R O Y &nbsp; · &nbsp; C R E A T I V E &nbsp; T E C H N O L O G I S T</sub>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=10&color=52525B&center=true&vCenter=true&width=500&height=30&lines=A+N+A+M+I+K+A++R+O+Y++++·++++C+R+E+A+T+I+V+E++T+E+C+H+N+O+L+O+G+I+S+T" alt="Anamika Roy - Creative Technologist" />
 
 <br />
 <br />
